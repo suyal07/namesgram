@@ -1,0 +1,1 @@
+1.results was not going away when emptied the keyword
